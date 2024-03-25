@@ -56,6 +56,6 @@ class Program
         rentalAgency.RentVehicle(car, 2); // Rent car for 2 days
         rentalAgency.RentVehicle(motorcycle, 3); // Rent motorcycle for 3 days
 
-        Console.WriteLine($"Total Revenue: {rentalAgency.TotalRevenue} Rupees");
+        Console.WriteLine($"Total Revenue: {rentalAgency.TotalRevenue} INR");
     }
 }
